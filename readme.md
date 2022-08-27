@@ -1,4 +1,4 @@
-Rokt Interview - Spark System
+Spark System - Raw Data Parsing
 ==============================
 
 ##### Author: Ye Xu
